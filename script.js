@@ -53,7 +53,6 @@ $(document).ready(function () {
     $("#hour16 .description").val(localStorage.getItem("hour16"));
   }
 
-  $("#current").text(moment().format("dddd, MMMM Do"));
 
   timeTracker();
 });
