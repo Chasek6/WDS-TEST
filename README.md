@@ -6,7 +6,7 @@ A simple work day scheduler application for keeping track of hourly appointment 
 
 
 # ScreenShots
-![WDS.PNG](Assets/WDS.png)
+![TWDS](Assets/TWDS.png)
 
 
 ## Table of Contents 
